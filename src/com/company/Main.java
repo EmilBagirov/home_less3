@@ -28,6 +28,7 @@ public class Main {
                 continue;
             }
          }
+
         if (isPrime)
             System.out.println("This is a prime number");
         else
